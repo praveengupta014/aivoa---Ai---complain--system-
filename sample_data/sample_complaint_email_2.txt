@@ -1,0 +1,34 @@
+From: complaints@vertexbiologicsjapan.co.jp
+Subject: URGENT - Foreign particulate matter found in API drum, Paracetamol API Batch PCM-A2231
+
+Hello,
+
+This is an urgent complaint from Vertex Biologics Japan regarding an Active Pharmaceutical
+Ingredient (API) shipment received on 28-Jun-2026 via ocean freight.
+
+Product: Paracetamol API, Pharmacopoeial Grade (USP/EP)
+Batch/Lot Number: PCM-A2231
+Manufacturing Date: 03-Mar-2026
+Expiry/Retest Date: 02-Mar-2028
+Quantity Affected: 2 drums out of 20 (approx. 50 kg)
+
+Upon opening drum #7 and drum #14 during sampling for our incoming raw material QC, our
+analysts observed dark fibrous particulate matter embedded within the white crystalline
+powder. Visual inspection under white light confirmed foreign material clearly distinguishable
+from the API itself, estimated at 8-10 visible fragments per drum, ranging 1-3mm in size.
+
+The remaining 18 drums from the same batch, sampled per our standard AQL plan, did not show
+this contamination on visual inspection, though we have not yet completed full testing.
+
+This is a critical finding for an API intended for finished dosage form manufacturing, as
+foreign particulate contamination poses direct patient safety risk and would require full
+batch rejection if confirmed across the lot. We have placed the entire batch PCM-A2231 on
+hold and request your immediate root cause investigation, including a review of your drum
+filling/closing operations and warehouse environmental controls at the time of packing.
+
+Please respond within 48 hours given the severity of this finding.
+
+Best regards,
+Aiko Tanaka
+Head of Quality, Vertex Biologics Japan
+Osaka, Japan
