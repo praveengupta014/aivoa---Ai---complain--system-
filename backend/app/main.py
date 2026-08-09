@@ -44,3 +44,7 @@ app.include_router(ai.router)
 def health():
     return {"status": "ok"}
 
+
+from mangum import Mangum
+
+handler = Mangum(app)
